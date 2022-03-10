@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" group="CINE Y SERIES" logo="https://www.pngkey.com/png/full/131-1317712_orb-toys-logo.png", Orbit TV | Peliculas
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CABLE" logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Logo_of_BHT_1_%282003-2012%29.png", BHTV | Peliculas
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://data.apkhere.com/96/tv.wuaki/3.7.4/icon.png!s" tvg-country="ES", Rakuten  | Peliculas
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Series" logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DarkMatterTV_218x218.png?raw=true" tvg-country="UK", Dark Matter | Peliculas
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00434-tricoast-darkmatter-spanish-samsunguk/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://africaorigin.net/upload/source/dtv.png" tvg-country="DO", DAN TV | Peliculas
+http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Movies" logo="http://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmwrle299mxlmn5nja1wu1e37m0m19zkrgws.png" tvg-country="US", MyTime movie  | Peliculas
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Movies" logo="https://cinedigm.com/wp-content/uploads/2021/08/MyTime.png" tvg-country="US", MyTime | Peliculas
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://infoprut.ro/wp-content/uploads/2013/11/sigla_tvr-e1414609927755.png" tvg-country="DO", Romana  | Peliculas
+http://tv.romanatv42.com/hls/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Local" logo="https://graph.facebook.com/1169958533100680/picture?width=320&height=320" tvg-country="PE", DMJ | Peliculas
+https://v4.tustreaming.cl/s1tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://ghsolucionesspa.com/wp-content/uploads/2022/01/ghs.png" tvg-country="DO", GH  | Peliculas
+https://cloudflare.streamgato.us:3352/live/ghtelevisionhdlive.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/mtvmusic-icon.png" tvg-country="CL", MASTV | Peliculas
+https://593b04c4c5670.streamlock.net/8008/8008/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Movies" logo="http://moviefe.com/logo%20moviefe.png" tvg-country="CO", MovieFe  | Peliculas
+https://vcp.myplaytv.com/moviefe/ngrp:moviefe_all/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://file.lives-score.com/images/channelimg/5163.jpg" tvg-country="CR", STV  | Peliculas
+http://tiquiciatv.com:1935/stv/web/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://images.squarespace-cdn.com/content/v1/5d727bceff9a5400018419aa/1568217360981-TSLDT3X2YVHWYE12BL7N/XOD_Logo.png" tvg-country="DO", Cibao  | Peliculas
+http://cm.hostlagarto.com:8081/Telecibao/Telecibao/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://upload.wikimedia.org/wikipedia/en/6/68/HunanTV_logo.png" tvg-country="PE", RTV  | Peliculas
+https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
+#EXTINF:0 type="stream" channelId="2663" group="CABLE" logo="https://images.squarespace-cdn.com/content/v1/566a1b387086d738d2cab191/1470760826046-T8Q87G4X8N6KBAJCU79T/ke17ZwdGBToddI8pDm48kBj5OMcef0WFSBnxTmC2z1RZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyiYc_2M7tCAA3t0lyRkLJhyqUWfdAGFu6o5WvvwY30TtogRO_ZgNffaXpMHh5Xxz8/Icons+corner.png", TELESUR  | Peliculas
+http://k3.usastreams.com/telesur/telesur/chunklist_w1432177556.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://elyakim-kislev.huji.ac.il/sites/default/files/elyakimkislev/files/bbc-one.png?m=1582270202" tvg-country="US", BBC | Series
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0 type="stream" channelId="-1" logo="https://seeklogo.com/images/D/doctor-who-logo-05DC9B95C0-seeklogo.com.png" tvg-country="US", Doctor Who | Series
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455de/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0 type="stream" channelId="1324" logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemadrid-mediano.png" tvg-country="ES", Telemadrid  | Variado España
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
+#EXTINF:0 type="stream" channelId="2528" logo="https://imagenes.gatotv.com/logos/canales/oscuros/laotra-mediano.png" tvg-country="ES", LaOtra  | Variado España
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8
+#EXTINF:0 type="stream" channelId="3120" group="Local" logo="https://i.imgur.com/SYkOBKP.png" tvg-country="ES", ETB   | Variado España
+https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CABLE" logo="https://vignette.wikia.nocookie.net/logopedia/images/7/76/150px-200px-TVE2_logo_2007.png/revision/latest/scale-to-width-down/340?cb=20190109204900", La 2   | Variado España
+http://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Animation" logo="https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/256/SingularDTV-SNGLS-icon.png" tvg-country="HISPAM;ES", Anime Zone TV (480p) [Not 24/7]
+http://azxtv.com/hls/stream.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Entertainment" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Estrella_TV_-_2009_Logo.png/300px-Estrella_TV_-_2009_Logo.png" tvg-country="US", Estrella TV   | Variado USA
+https://estrellatv-plex.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2488" name="Señal Colombia" logo="https://www.misenal.tv/themes/custom/misenal/logo_ms.png", Señal Colombia  | Variado Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Multivisi%C3%B3n_Cuba.svg/1200px-Multivisi%C3%B3n_Cuba.svg.png" tvg-country="AR", Multivision   | Variado Argentina
+http://panel.dattalive.com:1935/8250/8250/.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="General" logo="https://icon-library.com/images/wow-icon-png/wow-icon-png-2.jpg" tvg-country="SV;PE", WOW TV | Variado
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2533" group="News" tvg-country="HISPAM;ES", RT| Programas
+https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
+#EXTINF:0 type="stream" channelId="4690" name="HispanTV" logo="https://www.m3u.cl/logo/806_HispanTV.png", HispanTV | Programas
+https://live.presstv.ir/live/smil:live.smil/hispan.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6834c6c7c875c2c1c16_dwe.png" tvg-country="ES;HISPAM", DW | Programas
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://rutuner.net/sites/default/files/2021-02/euronews-russia-logotip.png" tvg-country="ES", Euronews
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 type="stream" channelId="139", France24 | Noticias
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://estrellatv.com/img/shows/noticias-estrellatv/logo.png" tvg-country="US", Estrella News   | Noticias
+https://estrellanews-plex.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="280" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png", Fashion
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Retro Plus TV" logo="https://fxfactory.com/testimonials/logos/mtv.png" background="#050000", MTV  | Retro Plus
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" group="Local" logo="https://static.epg.best/gb/MTVHits.uk.png" tvg-country="PE" background="#050000", MTV  | LotPlus
+https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://static.epg.best/gb/MTVMusic.uk.png" tvg-country="VE" background="#050000", MTV  | Ritmos Latinos
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.cadenaelite.es/img/logoMenu.png" tvg-country="ES" background="#050000", Cadena Elite (720p) [Not 24/7]
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.radiopop.cl/wp-content/uploads/2019/01/logo_pop_001.png" tvg-country="CL" background="#050000", TV Pop (720p)
+https://v4.tustreaming.cl/poptv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1595" group="MUSICA" logo="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/d6/10/ab/d610abcd-2ebc-09f9-2966-1f93b9e6bf11/source/256x256bb.jpg" background="#050000", Retro TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
